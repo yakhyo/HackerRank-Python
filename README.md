@@ -1,3 +1,3 @@
 # HackerRank Python
-1. [Python](Python/)
-2. [Problem Solving](Algorithms-ProblemSolving/)
+1.  [HackerRank-Python](Python/)
+2.  [HackerRank-Problem Solving](Algorithms-ProblemSolving/)
